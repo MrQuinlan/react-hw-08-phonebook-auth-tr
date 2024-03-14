@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-hw-08-phonebook-auth-tr/static/css/main.0e5337e6.css",
+    "main.js": "/react-hw-08-phonebook-auth-tr/static/js/main.5df8b75b.js",
+    "ContactForm.css": "/react-hw-08-phonebook-auth-tr/static/css/ContactForm.54fd60b9.chunk.css",
+    "ContactForm.js": "/react-hw-08-phonebook-auth-tr/static/js/ContactForm.bd612135.chunk.js",
+    "Filter.css": "/react-hw-08-phonebook-auth-tr/static/css/Filter.d9c96d38.chunk.css",
+    "Filter.js": "/react-hw-08-phonebook-auth-tr/static/js/Filter.862ebd75.chunk.js",
+    "ContactList.css": "/react-hw-08-phonebook-auth-tr/static/css/ContactList.de8d2e96.chunk.css",
+    "ContactList.js": "/react-hw-08-phonebook-auth-tr/static/js/ContactList.866d6d59.chunk.js",
+    "static/js/373.1dbd1f36.chunk.js": "/react-hw-08-phonebook-auth-tr/static/js/373.1dbd1f36.chunk.js",
+    "index.html": "/react-hw-08-phonebook-auth-tr/index.html",
+    "main.0e5337e6.css.map": "/react-hw-08-phonebook-auth-tr/static/css/main.0e5337e6.css.map",
+    "main.5df8b75b.js.map": "/react-hw-08-phonebook-auth-tr/static/js/main.5df8b75b.js.map",
+    "ContactForm.54fd60b9.chunk.css.map": "/react-hw-08-phonebook-auth-tr/static/css/ContactForm.54fd60b9.chunk.css.map",
+    "ContactForm.bd612135.chunk.js.map": "/react-hw-08-phonebook-auth-tr/static/js/ContactForm.bd612135.chunk.js.map",
+    "Filter.d9c96d38.chunk.css.map": "/react-hw-08-phonebook-auth-tr/static/css/Filter.d9c96d38.chunk.css.map",
+    "Filter.862ebd75.chunk.js.map": "/react-hw-08-phonebook-auth-tr/static/js/Filter.862ebd75.chunk.js.map",
+    "ContactList.de8d2e96.chunk.css.map": "/react-hw-08-phonebook-auth-tr/static/css/ContactList.de8d2e96.chunk.css.map",
+    "ContactList.866d6d59.chunk.js.map": "/react-hw-08-phonebook-auth-tr/static/js/ContactList.866d6d59.chunk.js.map",
+    "373.1dbd1f36.chunk.js.map": "/react-hw-08-phonebook-auth-tr/static/js/373.1dbd1f36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e5337e6.css",
+    "static/js/main.5df8b75b.js"
+  ]
+}

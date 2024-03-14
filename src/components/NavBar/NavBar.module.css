@@ -1,0 +1,33 @@
+.nav {
+    width: 98vw;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.title {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navMenu {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.link,
+.active {
+    font-size: 20px;
+    color: grey;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.link:not(:last-child),
+.active:not(:last-child) {
+    margin-right: 15px;
+}
+
+.active {
+    color: blue;
+}

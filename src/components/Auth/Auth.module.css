@@ -1,0 +1,95 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    color: #4830f0;
+}
+
+.label {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    margin-bottom: 10px;
+}
+
+.title {
+    font-size: 20px;
+    color: #4830f0;
+
+    margin-bottom: 10px;
+}
+
+.input {
+    border-radius: 10px;
+    color: #4830f0;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+
+    padding: 2px 8px;
+}
+
+.btn,
+.logOutBtn {
+    font-size: 20px;
+    font-weight: 700;
+    color: yellow;
+    text-transform: capitalize;
+
+    padding: 10px 30px;
+    border: 0;
+    border-radius: 10px;
+    background-image: linear-gradient(
+        to right,
+        #9eefe1 0%,
+        #4830f0 51%,
+        #9eefe1 100%
+    );
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    transition: 0.5s;
+}
+
+.logOutBtn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 31px;
+    width: 75px;
+
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.btn:hover,
+.logOutBtn:hover {
+    cursor: pointer;
+    background-position: right center;
+}
+
+.userMenu {
+    display: flex;
+    flex-direction: row;
+
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.user {
+    font-size: 20px;
+    font-weight: 400;
+
+    color: blue;
+}
+
+.userName {
+    font-size: 30px;
+    font-weight: 500;
+
+    line-height: 1;
+}
+
+.userName,
+.logOutBtn {
+    margin-left: 20px;
+}
